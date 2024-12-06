@@ -1,0 +1,4 @@
+name=input("enter the name ")
+age=input("enter the age ")
+is_student=input("ar you a student/(yes/no) ")
+print(f"Name:{name},Age:{age},student:{is_student}")
